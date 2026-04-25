@@ -1,6 +1,6 @@
 from multiprocessing import Queue
 import readchar
-from snake import direction_entity
+from utils.utils import direction_entity
 
 def get_direction(
     data: Queue,

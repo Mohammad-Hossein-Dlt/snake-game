@@ -1,0 +1,9 @@
+[project]
+name = "tetris"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pipdeptree>=2.30.0",
+    "readchar>=4.2.1",
+    "rich>=14.3.3",
+]

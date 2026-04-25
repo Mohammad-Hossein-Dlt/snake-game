@@ -1,0 +1,2 @@
+pipdeptree>=2.30.0
+readchar>=4.2.1
